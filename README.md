@@ -1,5 +1,5 @@
 # Terrence Kasau | Graduate chemist & Data Analytics
-Highly disciplined Bachelor of Science in Chemistry graduate from the University of Goroka with hands-on industrial processing plant experience and multi-sector operational discipline.
+Highly disciplined **Bachelor of Science in Chemistry** graduate from the **University of Goroka** with hands-on industrial processing plant experience and multi-sector operational discipline.
 
 ### 🔬 Core Expertise
 * **Industrial & Applied Chemistry:** Precision chemical handling, water quality analysis, fluid testing, and compound metrics.
